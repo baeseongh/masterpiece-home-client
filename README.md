@@ -1,6 +1,6 @@
-## MASTERPIECE
+## OldRookie Corp.
 
-마스터피스 소개 홈페이지 프론트엔드입니다. 
+올트루키 기업 소개 홈페이지 프론트엔드입니다. 
 
 ### 1. development
 
